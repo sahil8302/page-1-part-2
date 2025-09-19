@@ -31,8 +31,8 @@
 
 .row{
     display: flex;
-    padding-left: -12px;
-    padding-right: -12px;
+    margin-left: 12px;
+    margin-right: 12px;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
